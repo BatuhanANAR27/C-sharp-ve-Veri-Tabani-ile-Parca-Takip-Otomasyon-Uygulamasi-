@@ -1,0 +1,11 @@
+D:\proje\takipotomasyonu\takipotomasyonu\bin\Release\takipotomasyonu.exe.config
+D:\proje\takipotomasyonu\takipotomasyonu\bin\Release\takipotomasyonu.exe
+D:\proje\takipotomasyonu\takipotomasyonu\bin\Release\takipotomasyonu.pdb
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Release\takipotomasyonu.csproj.AssemblyReference.cache
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Release\takipotomasyonu.anasayfa.resources
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Release\takipotomasyonu.Form1.resources
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Release\takipotomasyonu.Properties.Resources.resources
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Release\takipotomasyonu.csproj.GenerateResource.cache
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Release\takipotomasyonu.csproj.CoreCompileInputs.cache
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Release\takipotomasyonu.exe
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Release\takipotomasyonu.pdb

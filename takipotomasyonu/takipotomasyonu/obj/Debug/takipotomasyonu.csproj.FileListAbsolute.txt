@@ -1,0 +1,22 @@
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.csproj.AssemblyReference.cache
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.Properties.Resources.resources
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.csproj.GenerateResource.cache
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.csproj.CoreCompileInputs.cache
+D:\proje\takipotomasyonu\takipotomasyonu\bin\Debug\takipotomasyonu.exe.config
+D:\proje\takipotomasyonu\takipotomasyonu\bin\Debug\takipotomasyonu.exe
+D:\proje\takipotomasyonu\takipotomasyonu\bin\Debug\takipotomasyonu.pdb
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.exe
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.pdb
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.anasayfa.resources
+D:\proje\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.Form1.resources
+D:\visul studio project\takipotomasyonu\takipotomasyonu\bin\Debug\takipotomasyonu.exe.config
+D:\visul studio project\takipotomasyonu\takipotomasyonu\bin\Debug\takipotomasyonu.exe
+D:\visul studio project\takipotomasyonu\takipotomasyonu\bin\Debug\takipotomasyonu.pdb
+D:\visul studio project\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.csproj.AssemblyReference.cache
+D:\visul studio project\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.anasayfa.resources
+D:\visul studio project\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.Form1.resources
+D:\visul studio project\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.Properties.Resources.resources
+D:\visul studio project\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.csproj.GenerateResource.cache
+D:\visul studio project\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.csproj.CoreCompileInputs.cache
+D:\visul studio project\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.exe
+D:\visul studio project\takipotomasyonu\takipotomasyonu\obj\Debug\takipotomasyonu.pdb
